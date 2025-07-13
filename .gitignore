@@ -1,0 +1,15 @@
+# Byte‑code / caches
+__pycache__/
+*.py[cod]
+
+# Data & models (regenerable)
+data/*.csv
+data/*.pkl
+data/*.db
+retriever/faiss.index
+retriever/text_chunks.txt
+models/*.joblib
+
+# OS clutter
+.DS_Store
+Thumbs.db
