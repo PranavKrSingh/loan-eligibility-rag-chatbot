@@ -11,7 +11,6 @@ README for: https://github.com/PranavKrSingh/loan-eligibility-rag-chatbot
   </a>
  
 
-  <img alt="Python 3.10" src="https://img.shields.io/badge/Python-3.10+-yellow.svg">
 </p>
 
 > **Live Demo:**  
