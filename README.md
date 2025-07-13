@@ -9,9 +9,8 @@ README for: https://github.com/PranavKrSingh/loan-eligibility-rag-chatbot
   <a href="https://loan-eligibility-rag-chatbot-pvaufufengqtonf3igvwic.streamlit.app/" target="_blank">
     <img alt="Streamlit App" src="https://img.shields.io/badge/Live%20Demo-Open-green?logo=streamlit&logoColor=white">
   </a>
-  <a href="https://github.com/PranavKrSingh/loan-eligibility-rag-chatbot/blob/main/LICENSE">
-    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">
-  </a>
+ 
+
   <img alt="Python 3.10" src="https://img.shields.io/badge/Python-3.10+-yellow.svg">
 </p>
 
@@ -29,12 +28,6 @@ README for: https://github.com/PranavKrSingh/loan-eligibility-rag-chatbot
 6. [Project Structure](#project-structure)  
 7. [Model Training & Retrieval Pipeline](#model-training--retrieval-pipeline)  
 8. [Dataset](#dataset)  
-9. [Demo Screenshots](#demo-screenshots)  
-10. [Roadmap](#roadmap)  
-11. [Contributing](#contributing)  
-12. [License](#license)  
-
----
 
 ## Overview
 This project combines **machine‑learning prediction** with **Retrieval‑Augmented Generation (RAG)** to create a conversational assistant that can:
